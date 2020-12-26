@@ -1,0 +1,14 @@
+C:\Users\Nakos\source\repos\TShirt\TShirt\bin\Debug\TShirt.exe.config
+C:\Users\Nakos\source\repos\TShirt\TShirt\bin\Debug\TShirt.exe
+C:\Users\Nakos\source\repos\TShirt\TShirt\bin\Debug\TShirt.pdb
+C:\Users\Nakos\source\repos\TShirt\TShirt\obj\Debug\TShirt.csprojAssemblyReference.cache
+C:\Users\Nakos\source\repos\TShirt\TShirt\obj\Debug\TShirt.csproj.CoreCompileInputs.cache
+C:\Users\Nakos\source\repos\TShirt\TShirt\obj\Debug\TShirt.exe
+C:\Users\Nakos\source\repos\TShirt\TShirt\obj\Debug\TShirt.pdb
+C:\Users\kmcha\Desktop\TShirt\TShirt\bin\Debug\TShirt.exe.config
+C:\Users\kmcha\Desktop\TShirt\TShirt\bin\Debug\TShirt.exe
+C:\Users\kmcha\Desktop\TShirt\TShirt\bin\Debug\TShirt.pdb
+C:\Users\kmcha\Desktop\TShirt\TShirt\obj\Debug\TShirt.csprojAssemblyReference.cache
+C:\Users\kmcha\Desktop\TShirt\TShirt\obj\Debug\TShirt.csproj.CoreCompileInputs.cache
+C:\Users\kmcha\Desktop\TShirt\TShirt\obj\Debug\TShirt.exe
+C:\Users\kmcha\Desktop\TShirt\TShirt\obj\Debug\TShirt.pdb
